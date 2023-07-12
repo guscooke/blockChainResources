@@ -1,2 +1,3 @@
 # blockChainResources
-to organize and gather resource material for learning purpose.
+This repo has the intent to gather blockchain material for study purpose.
+
